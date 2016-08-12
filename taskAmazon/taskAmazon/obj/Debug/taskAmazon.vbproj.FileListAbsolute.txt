@@ -1,0 +1,15 @@
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\taskAmazon.dll.config
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\taskAmazon.dll
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\taskAmazon.pdb
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\taskAmazon.xml
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\WebDriver.dll
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\WebDriver.Support.dll
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\WebDriver.xml
+C:\Projects VS15\taskAmazon\taskAmazon\bin\Debug\WebDriver.Support.xml
+C:\Projects VS15\taskAmazon\taskAmazon\obj\Debug\taskAmazon.Resources.resources
+C:\Projects VS15\taskAmazon\taskAmazon\obj\Debug\taskAmazon.vbproj.GenerateResource.Cache
+C:\Projects VS15\taskAmazon\taskAmazon\obj\Debug\taskAmazon.dll
+C:\Projects VS15\taskAmazon\taskAmazon\obj\Debug\taskAmazon.xml
+C:\Projects VS15\taskAmazon\taskAmazon\obj\Debug\taskAmazon.pdb
